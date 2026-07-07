@@ -1,5 +1,4 @@
-def selectionSort(arr):
-    
+def selectionSort(arr):h
     for i in range(len(arr)):
         min_x = i
 
