@@ -1,7 +1,6 @@
 def selectionSort(arr):h
     for i in range(len(arr)):
         min_x = i
-
         for item in range(i+1, len(arr)):
             if arr[item] < arr[min_x]:
                 min_x = item
