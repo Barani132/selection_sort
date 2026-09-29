@@ -9,5 +9,4 @@ def selectionSort(arr):h
 
 arr = [20, 12, 10, 15, 2]
 selectionSort(arr)
-
 print(arr)
